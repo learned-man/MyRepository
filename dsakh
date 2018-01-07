@@ -1,0 +1,42 @@
+[33mcommit 4bb949d605b6bca18d4cfc124da767c8c3946404[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Merge: 4ffe0f1 3e6a4e4
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 21:22:35 2018 +0800
+
+    conflict fixed
+
+[33mcommit 4ffe0f1a1be977c5e71b61d37e17bf02bea0d614[m
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 21:20:03 2018 +0800
+
+    在master分支上新增内容666666
+
+[33mcommit 3e6a4e497b3adf2f753ecd3e39be0dc044fac4e3[m[33m ([m[1;32mfenzhi1[m[33m)[m
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 21:18:38 2018 +0800
+
+    添加内容555555
+
+[33mcommit b15749d6a0fa04ca34a6494a0143ef254372a5c7[m
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 21:16:12 2018 +0800
+
+    dev分支上增加444444
+
+[33mcommit 171d86c09a38b05c53c389ec76a81d8bca3e08cf[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 20:09:35 2018 +0800
+
+    添加333333内容
+
+[33mcommit 802633a4f664305a06d4a456a1b4715142ee8434[m
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 20:08:41 2018 +0800
+
+    文件增加222222内容
+
+[33mcommit 362fc4d534fc276a30717fc4b4f116dab6c472b9[m
+Author: shusheng <1040326000@qq.com>
+Date:   Sat Jan 6 20:06:37 2018 +0800
+
+    readme.txt提交
